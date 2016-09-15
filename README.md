@@ -8,7 +8,7 @@ Originally a fork of [canvas2svg](https://github.com/gliffy/canvas2svg).
 
 ## Getting
 
-First of all, get Origami.js using [Download Option](https://github.com/raphamorim/origami.js/archive/master.zip) or using NPM.
+First of all, get Origami.js using [Download Option](https://github.com/origamijs/origami.svg/archive/master.zip) or using NPM.
 
 Get using NPM just run this command
 
