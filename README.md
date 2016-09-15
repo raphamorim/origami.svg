@@ -2,6 +2,8 @@
 
 > Origamijs plugin to render canvas to SVG
 
+Working only for [Origami.js](https://github.com/raphamorim/origami.js) >= 0.5.0
+
 Originally a fork of [canvas2svg](https://github.com/gliffy/canvas2svg).
 
 ## Getting
