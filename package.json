@@ -1,0 +1,26 @@
+{
+  "name": "origami.svg",
+  "version": "0.0.5",
+  "description": "Origamijs plugin to render canvas to SVG",
+  "main": "origamijs.svg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/origamijs/origamijs.svg.git"
+  },
+  "keywords": [
+    "origamijs",
+    "origami",
+    "svg",
+    "canvas",
+    "to"
+  ],
+  "author": "Raphael Amorim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/origamijs/origamijs.svg/issues"
+  },
+  "homepage": "https://github.com/origamijs/origamijs.svg#readme"
+}
